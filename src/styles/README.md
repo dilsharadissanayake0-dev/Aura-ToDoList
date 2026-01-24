@@ -19,5 +19,5 @@ Aura TodoList is a simple web application to manage daily tasks.
 https://book-aura-alpha.vercel.app/
 
 ## Team
-- Member 1 – DevOps Engineer
-- Member 2 – Fullstack Developer
+- Member 1-ITBIN-2313-0030 – DevOps Engineer
+- Member 2 –ITBIN-2313-0135- Fullstack Developer
