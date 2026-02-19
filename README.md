@@ -1,10 +1,8 @@
-Team Members
-Member 1:D.M.D.Dilki Dilshara-ITBIN-2313-0030
-Member 2:M.Imashi Shashikala-ITBIN-2313-0135
+
 # Aura TodoList
 
 ## Team Members & Roles
-Member 1:D.M.D.Dilki Dilshara-ITBIN-2313-0030-Devops Engineer
+Member 1:D.M.D.Dilki Dilshara-ITBIN-2313-0030-Devops Engineer <br>
 Member 2:M.Imashi Shashikala-ITBIN-2313-0135-Fullstack Developer
 
 ### Full-Stack Developer
