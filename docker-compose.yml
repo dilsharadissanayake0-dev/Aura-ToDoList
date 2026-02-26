@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  aura-app:
+    build: .
+    container_name: aura_todolist_container
+    ports:
+      - "8090:80"
+    restart: always
+
+    networks:
+      - aura-network
+
+    deploy:
+      resources:
+        limits:
+          cpus: "0.50"
+          memory: 256M
+
+networks:
+  aura-network:
+    driver: bridge
