@@ -13,7 +13,6 @@ Contribution:
 - Initial project setup and feature development
 
 
-
 ### DevOps Engineer
 
 Contribution:
@@ -31,3 +30,4 @@ https://aura-to-do-list-25xx.vercel.app/
 - JavaScript
 - Git & GitHub
 - GitHub Actions (CI)
+
