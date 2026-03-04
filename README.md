@@ -32,4 +32,8 @@ https://aura-to-do-list-25xx.vercel.app/
 - Git & GitHub
 - GitHub Actions (CI)
 
+### Docker Configuration
+
+This application is containerised using Docker to ensure consistent deployment across different environments. A Dockerfile is used to build a lightweight container image based on the nginx:alpine base image. The static web files are copied into the Nginx default directory (/usr/share/nginx/html) and served over port 80.
+Docker Compose is used to define the service configuration, including port mapping, restart policy, and resource limits. This approach enables reproducible builds, simplified deployment, and improved portability compared to traditional environment-based setups.
 
